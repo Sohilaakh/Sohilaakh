@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Sohila Khaled
 
-🎓 **Junior Flutter Developer** | 💻 **Computer Science Graduate** | 📊 **AI & Data Enthusiast**
+🎓 **Junior Flutter Developer** | 💻 **Computer Science Graduate** 
 
-I'm passionate about creating impactful mobile applications and intelligent systems.  
-With a strong background in computer science and hands-on experience in Flutter and AI-based projects, I love turning ideas into reality through technology.
+I'm passionate about creating impactful mobile applications.  
+With a strong background in computer science and hands-on experience in Flutter projects, I love turning ideas into reality through technology.
 
 ---
 
